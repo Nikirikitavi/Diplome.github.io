@@ -1,0 +1,184 @@
+/* HEADER */
+		h1 {
+			color: #f4f5f9;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 72px;
+			font-weight: 700;
+			padding: 45px;
+		}
+		.header-title {
+			color: #f4f5f9;
+			font-family: 'Source Sans Pro', sans-serif;
+			font-size: 24px;
+			font-weight: 400;
+		}
+		.header-text {
+			width: 50%;
+			padding-top: 43px;
+			margin: 0 auto;
+			margin-bottom: 5.8%;
+						
+			color: #cbc6c0;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 14px;
+			font-weight: 400;
+			line-height: 24px;
+		}
+
+
+/* WHO WE ARE */
+.icon-title {
+	margin-top: 30px;
+	
+	color: #6a6a6a;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+	.properties-item:hover>.icon-title {
+		color: #e74c3c;
+}
+.icon-text {
+	color: #999;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 12px;
+	font-weight: 300;
+	line-height: 20px;
+}
+
+
+/* OUR HISTORY */
+.block-title-line-before {
+	color: #6a6a6a;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	
+	padding-left: 30px;
+	border-left: 6px solid #e74c3c;; 
+}
+	.main-text-small {
+		color: #999;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 29px;
+		
+		margin-top: 50px;
+	}
+
+
+
+/* OUR SERVICES */
+.block-title-line-after {
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	
+	padding-right: 30px;
+	border-right: 6px solid #e74c3c; 
+}
+	.margin-top-right {
+		margin-top: 12%;
+		margin-right: 80px;
+	}
+.our-services-main-text {
+	color: #e74c3c;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 29px;
+}
+	.our-services-mall-text {
+		color: #999;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 29px;
+}
+
+
+/* WORK */
+.work-title, .study-title, .princing-title {
+	color: #6a6a6a;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+}
+	.work-subtitle, .study-subtitle, .princing-subtitle {
+		color: #999;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 29px;
+		
+		padding-bottom: 25px;
+		text-align: center;
+
+	}
+		.gallery-title {
+			color: white;
+			font-family: 'Source Sans Pro', sans-serif;
+			font-size: 24px;
+			font-weight: 600;
+			
+			line-height: 31px;
+			padding-top: 10px;
+		}
+			.galery-item-text:before {
+				content: '';
+				position: absolute;
+				width: 20%;
+				height: 4px;
+				background: white; 
+				bottom: 100%;
+				left: 0;
+			}
+			.gallery-subtitle {
+				color: white;
+				font-family: 'Open Sans', sans-serif;
+				font-size: 14px;
+				font-weight: 400;
+			}
+
+
+/* STUDY */
+.study-info-title {
+	color: #6a6a6a;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+	
+	margin-top: 78px;
+	padding-bottom: 8px;
+}
+.study-info-text {
+	color: #999;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 24px;
+	
+	padding-bottom: 25px;
+}
+
+.study-statistic-number {
+	color: #f4f5f9;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 30px;
+	margin-top: 40px;
+}
+.study-statistic-text {
+	color: #f4f5f9;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	margin-top: 10px;
+}
+

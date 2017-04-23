@@ -1,0 +1,115 @@
+.sprite-circle {
+    width: 25px;
+    height: 25px;
+    padding: 19.5px;
+    background-repeat: no-repeat;
+    background-color: white;
+    border: 5px solid grey;
+    border-radius: 50%;
+}
+    .icon-border {
+        width: 25px;
+        height: 25px;
+        padding: 23px;
+        margin: 0 auto;
+
+        border: 1px solid #e6e7eb;
+        border-radius: 1px;
+    
+    }
+.sprite-square {
+    margin: 0 auto;
+    width: 25px;
+    height: 25px;
+    background-repeat: no-repeat;
+    }
+    .properties-item:hover>.icon-border /* класс блока */ { 
+            border: 1px solid #e74c3c;
+            
+            transform: rotate(45deg);
+            -webkit-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+
+    }
+    .properties-item:hover .sprite-square /* класс иконки */ {
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+    }
+
+
+
+
+
+
+.sprite-anchor {
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    bottom: -4%;
+    margin-left: -37px;
+    }
+
+
+.sleek-design {}
+.sprite-clean-code {}
+.sprite-creative-ideas {}
+.sprite-free-support {}
+.sprite-photography {}
+.sprite-print-design {}
+.sprite-web-design {}
+
+
+    .icon-idea {
+        width: 34px;
+        height: 34px;
+        padding: 40px;
+        margin: 0 auto;
+        margin-top: 25px;
+
+        background-color: #e74c3c;
+/*         border: 1px solid #e74c3cb;
+ */        border-radius: 1px;
+    
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+
+    }
+.icon-idea-pic {
+    margin: 0 auto;
+    width: 34px;
+    height: 34px;
+    background-repeat: no-repeat;
+   
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+
+
+    }
+
+    .awesome-icon {
+        width: 110px;
+        height: 110px;
+        box-sizing: border-box;
+
+        border: 2px solid white;
+        border-radius: 50%;
+      }
+        .study-icon-item:hover>.fa {
+            font-size: 60px !important;
+            padding-top: 24px;
+
+        }
+.fa {
+    text-align: center;
+    color: white;
+    font-size: 30px !important;
+    padding-top: 39px;
+
+    }
